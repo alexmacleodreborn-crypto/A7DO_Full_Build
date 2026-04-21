@@ -13,7 +13,7 @@ from human_system.control.decision_system_v1 import DecisionSystemV1
 st.set_page_config(layout="wide")
 st.title("A7DO Dashboard V3")
 
-# Persist systems across reruns
+# Persist systems
 if "vision" not in st.session_state:
     st.session_state.vision = VisionSystem()
     st.session_state.identity = SelfIdentityV1()
@@ -42,7 +42,7 @@ if frame is not None:
 
     identity_data = identity.get_identity_state(frame)
 
-    # Temporary sensor data
+    # TEMP sensor data
     sensor_data = {
         "balance": {"stable": True},
         "motion": {"velocity": 0}
@@ -75,4 +75,4 @@ if frame is not None:
         "thought_chain": thought
     })
 
-    st.session_state.prev_symbol = symbol
+    st.session_state.prev_symbol = symbol   
