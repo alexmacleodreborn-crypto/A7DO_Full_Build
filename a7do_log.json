@@ -35938,5 +35938,1257 @@
         }
       }
     }
+  },
+  {
+    "timestamp": 1776799774.8183615,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799775.7820075,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799776.0433204,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799776.368691,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799776.7026243,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799777.0646174,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799777.3520238,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799777.8207035,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799778.1355345,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799778.4176564,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799778.696751,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799779.0019255,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799779.2862413,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799779.7104566,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799780.0223951,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799780.3217833,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799780.6215825,
+    "data": {
+      "identity": {
+        "identity": "unknown",
+        "registered": false
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_0",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "Idle"
+      }
+    }
+  },
+  {
+    "timestamp": 1776799780.968677,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_0",
+        "CONCEPT_0",
+        "CONCEPT_0"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799781.2941172,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799781.6758976,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799781.9756086,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799782.2724671,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799782.557454,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799782.8401666,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799783.14108,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799783.423446,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799783.741123,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799784.0410023,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799784.3253727,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799784.6242237,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799784.923524,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799785.2083557,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799785.5757885,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799785.81024,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799786.1277783,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799786.4646525,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799786.8595748,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799787.3300874,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799787.6810744,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
+  },
+  {
+    "timestamp": 1776799788.320444,
+    "data": {
+      "identity": {
+        "identity": "self",
+        "registered": true
+      },
+      "sensor": {
+        "balance": {
+          "stable": true
+        },
+        "motion": {
+          "velocity": 0
+        },
+        "audio": {
+          "hearing": "ambient_noise"
+        }
+      },
+      "symbol": "CONCEPT_1",
+      "thought": [
+        "CONCEPT_1",
+        "CONCEPT_1",
+        "CONCEPT_1"
+      ],
+      "decision": {
+        "speech": "I can see myself",
+        "movement": {
+          "hip_L": 5,
+          "knee_L": 10
+        }
+      }
+    }
   }
-]
+]]
