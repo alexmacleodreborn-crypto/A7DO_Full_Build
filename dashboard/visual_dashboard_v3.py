@@ -11,9 +11,10 @@ from human_system.identity.self_identity_v1 import SelfIdentityV1
 from human_system.cognition.symbolization_system_v1 import SymbolizationSystemV1
 from human_system.cognition.mindpathing_system_v1 import MindpathingSystemV1
 from human_system.control.decision_system_v1 import DecisionSystemV1
+from human_system.memory.experience_logger_v1 import ExperienceLoggerV1
 
 st.set_page_config(layout="wide")
-st.title("A7DO Dashboard V3 (Live)")
+st.title("A7DO Dashboard V3 (Live + Memory)")
 
 if "vision" not in st.session_state:
     st.session_state.vision = VisionSystem()
@@ -23,6 +24,7 @@ if "vision" not in st.session_state:
     st.session_state.symbol_system = SymbolizationSystemV1()
     st.session_state.mind = MindpathingSystemV1(st.session_state.symbol_system)
     st.session_state.decision = DecisionSystemV1()
+    st.session_state.logger = ExperienceLoggerV1()
     st.session_state.prev_symbol = None
 
 vision = st.session_state.vision
@@ -31,6 +33,7 @@ identity = st.session_state.identity
 symbol_system = st.session_state.symbol_system
 mind = st.session_state.mind
 decision_system = st.session_state.decision
+logger = st.session_state.logger
 
 col1, col2, col3 = st.columns(3)
 
@@ -61,6 +64,15 @@ if frame is not None:
 
     decision = decision_system.decide(sensor_data, identity_data)
 
+    # LOG EXPERIENCE
+    logger.log({
+        "identity": identity_data,
+        "sensor": sensor_data,
+        "symbol": symbol.name,
+        "thought": thought,
+        "decision": decision
+    })
+
     cv2.putText(frame, identity_data["identity"], (20, 30),
                 cv2.FONT_HERSHEY_SIMPLEX, 1, (0,255,0), 2)
 
@@ -78,6 +90,10 @@ if frame is not None:
     col3.write({
         "thought_chain": thought
     })
+
+    # SHOW MEMORY
+    st.subheader("Recent Experience")
+    st.json(logger.get_recent(5))
 
     st.session_state.prev_symbol = symbol
 
