@@ -1,14 +1,22 @@
-import cv2
+"""
+Cloud-safe Vision System (no OpenCV)
+Uses PIL instead of cv2 for compatibility with Streamlit Cloud
+"""
 
-class VisionSystem:
-    def __init__(self, camera_index=0):
-        self.cap = cv2.VideoCapture(camera_index)
+from PIL import Image
+import numpy as np
+
+class VisionSystemSafe:
+    def __init__(self):
+        self.last_frame = None
 
     def get_frame(self):
-        ret, frame = self.cap.read()
-        if not ret:
-            return None
-        return frame
+        """
+        Returns a placeholder frame (since webcam access is limited in cloud)
+        """
+        img = Image.new('RGB', (320, 240), color=(73, 109, 137))
+        self.last_frame = np.array(img)
+        return self.last_frame
 
     def release(self):
-        self.cap.release()
+        pass
