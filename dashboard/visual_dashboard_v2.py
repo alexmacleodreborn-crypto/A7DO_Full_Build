@@ -6,11 +6,11 @@ Run with: streamlit run dashboard/visual_dashboard_v2.py
 import streamlit as st
 import cv2
 
-from human_system.sensors.vision_voice_system_v1 import VisionSystem
-from human_system.identity.self_identity_v1 import SelfIdentityV1
-from human_system.cognition.symbolization_system_v1 import SymbolizationSystemV1
-from human_system.cognition.mindpathing_system_v1 import MindpathingSystemV1
-from human_system.control.decision_system_v1 import DecisionSystemV1
+from sensors.vision_voice_system_v1 import VisionSystem
+from identity.self_identity_v1 import SelfIdentityV1
+from cognition.symbolization_system_v1 import SymbolizationSystemV1
+from cognition.mindpathing_system_v1 import MindpathingSystemV1
+from control.decision_system_v1 import DecisionSystemV1
 
 st.set_page_config(layout="wide")
 st.title("A7DO Dashboard V2 - Full Cognitive View")
